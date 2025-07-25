@@ -4,5 +4,5 @@ I am a undergraduated in Civil Engineer that have been working with data and tec
 - 🔭 I’m currently working on improving my base knowledge
 - 🌱 I’m currently learning more about SQL and Python (not only how to use it but how to document it and improve performance)
 - 📫 How to reach me: https://www.linkedin.com/in/katherinefsc/
-- 😄 Pronouns: her/she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Star Wars
